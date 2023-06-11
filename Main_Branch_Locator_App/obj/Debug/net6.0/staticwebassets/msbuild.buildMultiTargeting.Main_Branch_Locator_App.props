@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Main_Branch_Locator_App.props" />
+</Project>
